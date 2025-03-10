@@ -1,7 +1,5 @@
 # Stock-Market-Prediction-and-Analysis
 
-# Stock Trend Prediction
-
 ## Overview
 This project is a **Stock Trend Prediction** web application built using **Python, Streamlit, and Keras**. The application fetches stock market data from **Yahoo Finance**, processes it using **LSTM (Long Short-Term Memory) Neural Networks**, and visualizes past trends along with future predictions.
 
