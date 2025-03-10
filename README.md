@@ -51,14 +51,6 @@ This project is a **Stock Trend Prediction** web application built using **Pytho
 - The model uses **60 previous time steps** to predict the next value.
 - The trained model is saved as **keras_model.h5**.
 
-## File Structure
-```
-📂 stock-trend-prediction
-├── 📄 app.py (Main Streamlit app)
-├── 📄 keras_model.h5 (Pre-trained LSTM model)
-├── 📄 requirements.txt (List of dependencies)
-├── 📄 README.md (Project documentation)
-```
 
 ## Future Improvements
 - Implement additional **technical indicators** for better accuracy.
@@ -69,9 +61,4 @@ This project is a **Stock Trend Prediction** web application built using **Pytho
 ## Contributing
 Feel free to submit **issues, feature requests, or pull requests** to improve this project!
 
-## License
-This project is licensed under the **MIT License**.
-
----
-**Developed by [Your Name]** 🚀
 
